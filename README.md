@@ -5,5 +5,7 @@
 ## 다양한 예제로 완성하는 C포인터 [개정판]
  - [예제파일 다운로드](https://freelec.co.kr/datacenter/?board_name=DataCenter2&search_field=fn_title&search_text=C%20포인터&order_by=fn_pid&order_type=desc&list_type=list&vid=64)
  - 저작권 : 프리렉
- - IDE : CLion
+ - IDE 
+    - CLion - Chapter01
+    - VIm - Chapter02부터
  - Compiler : C99
