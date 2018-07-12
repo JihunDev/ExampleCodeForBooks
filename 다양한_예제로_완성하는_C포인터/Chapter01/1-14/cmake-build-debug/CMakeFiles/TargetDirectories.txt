@@ -1,3 +1,0 @@
-/Users/andrew/Documents/ExampleCodeForBooks/다양한_예제로_완성하는_C포인터/Chapter01/1-14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/andrew/Documents/ExampleCodeForBooks/다양한_예제로_완성하는_C포인터/Chapter01/1-14/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/andrew/Documents/ExampleCodeForBooks/다양한_예제로_완성하는_C포인터/Chapter01/1-14/cmake-build-debug/CMakeFiles/1_14.dir

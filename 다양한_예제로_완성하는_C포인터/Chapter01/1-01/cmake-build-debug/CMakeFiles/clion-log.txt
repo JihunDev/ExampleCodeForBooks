@@ -1,4 +1,0 @@
-/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/andrew/Documents/ExampleCodeForBooks/다양한 예제로 완성하는 C포인터/Chapter 01/1-1"
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/andrew/Documents/ExampleCodeForBooks/다양한 예제로 완성하는 C포인터/Chapter 01/1-1/cmake-build-debug
